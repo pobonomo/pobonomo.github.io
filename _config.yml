@@ -1,7 +1,6 @@
-title: Pierre Bonami
+title: Home Page
 description: >-
-  Principal Developer at Gurobi Optimization. Researcher in Mixed-Integer
-  Programming, MINLP, cutting-plane theory, and optimization-ML interactions.
+  Homepage of Pierre Bonami
 
 # Update these for your deployment target:
 # - User site (username.github.io):  leave baseurl empty and set url below
@@ -17,10 +16,10 @@ minima:
   skin: classic
 
 # # Social links shown in footer
-# author:
-#   name: Pierre Bonami
+  author:
+    name: Pierre Bonami
 #   email: ""           # add your email if desired
-#   github: pobonomo
+    github: pobonomo
 
 # Navigation pages (order matters)
 header_pages:
