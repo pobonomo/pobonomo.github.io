@@ -16,11 +16,11 @@ theme: minima
 minima:
   skin: classic
 
-# Social links shown in footer
-author:
-  name: Pierre Bonami
-  email: ""           # add your email if desired
-  github: pobonomo
+# # Social links shown in footer
+# author:
+#   name: Pierre Bonami
+#   email: ""           # add your email if desired
+#   github: pobonomo
 
 # Navigation pages (order matters)
 header_pages:
