@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: page
 title: Pierre Bonami
 ---
-
-# Pierre Bonami
 
 <img src="{{ site.baseurl }}/assets/profile.jpg" alt="Pierre Bonami" style="float:right;margin:0 0 1em 2em;border-radius:50%;width:140px;height:140px;object-fit:cover;">
 
@@ -18,7 +16,7 @@ My career spans academia and industry, with positions at:
 - **IBM** — Research Scientist in the
   [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio) team.
 - **CNRS** — Permanent Researcher at [LIF Marseille](https://www.lis-lab.fr) (now LIS).
-- **Carnegie Mellon University** — Postdoctoral research in optimization
+- **[Carnegie Mellon University](https://www.cmu.edu)** — Postdoctoral research in optimization
 
 I earned my PhD in Operations Research at [Paris 6 (LIP6)](https://www.lip6.fr), focusing on algorithms for
 Mixed-Integer Nonlinear Programming.
@@ -46,6 +44,9 @@ automate
 [Benders decomposition inside solvers](https://doi.org/10.1007/978-3-030-45771-6_7),
 and apply
 [machine learning to guide algorithm selection](https://doi.org/10.1287/opre.2022.2267).
+A growing focus of my work is the **interaction between optimization and machine
+learning**: using ML to improve solver decisions, and conversely, embedding
+trained predictors inside optimization models.
 
 ## Gurobi Machine Learning
 
@@ -72,4 +73,4 @@ loosely maintained.
 - 🎓 [Google Scholar](https://scholar.google.com/scholar?q=Pierre+Bonami)
 - 📖 [DBLP](https://dblp.org/pid/48/4147)
 - 🔗 [Gurobi](https://www.gurobi.com)
-- 🔬 [Gurobi Machine Learning](https://coin-or.github.io/Gurobi/gurobi-machinelearning)
+- 🔬 [Gurobi Machine Learning](https://github.com/Gurobi/gurobi-machinelearning)

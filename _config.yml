@@ -1,8 +1,7 @@
 title: Pierre Bonami
 description: >-
   Principal Developer at Gurobi Optimization. Researcher in Mixed-Integer
-  Programming, MINLP, and cutting-plane theory. On leave from CNRS.
-author: Pierre Bonami
+  Programming, MINLP, cutting-plane theory, and optimization-ML interactions.
 
 # Update these for your deployment target:
 # - User site (username.github.io):  leave baseurl empty and set url below
@@ -30,7 +29,7 @@ header_pages:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: pretty
 
 # GitHub Pages safe plugins only
 plugins:
