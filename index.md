@@ -1,12 +1,11 @@
 ---
 layout: page
+title: Pierre Bonami
 ---
-
-# Pierre Bonami
 
 <img src="{{ site.baseurl }}/assets/profile.jpg" alt="Pierre Bonami" style="float:right;margin:0 0 1em 2em;border-radius:50%;width:140px;height:140px;object-fit:cover;">
 
-I am **Pierre Bonami**, a Principal Developer at
+I a Principal Developer at
 [Gurobi Optimization](https://www.gurobi.com) based in **Madrid, Spain**.
 
 ## Background
