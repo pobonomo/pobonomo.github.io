@@ -16,7 +16,7 @@ My career spans academia and industry, with positions at:
 - **IBM** — Research Scientist in the
   [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio) team.
 - **CNRS** — Permanent Researcher at [LIF Marseille](https://www.lis-lab.fr) (now LIS).
-- **[Carnegie Mellon University](https://www.cmu.edu)** — Postdoctoral research in optimization
+- **Carnegie Mellon University** — Postdoctoral research in optimization
 
 I earned my PhD in Operations Research at [Paris 6 (LIP6)](https://www.lip6.fr), focusing on algorithms for
 Mixed-Integer Nonlinear Programming.
